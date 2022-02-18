@@ -1,0 +1,2 @@
+Git: Sistema de versionamento muito utilizado em desenvolvimento de softwares.
+GitHub: "GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle" (ALURA, 2020)
